@@ -1,0 +1,4 @@
+add_lunch_combo toiiki_rk2918-userdebug
+add_lunch_combo toiiki_galaxysl-userdebug
+
+
